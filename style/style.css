@@ -1,0 +1,24 @@
+/* Slider */
+
+.carousel-inner, .carousel-item {
+    height: 100vh;
+  }
+  
+  .carousel-item img {
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /*brands*/
+  .card img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+  }
+
+  .box {
+    background-color: #eff2f5;
+  }
+  footer{
+    background-color: #dfe2e5;
+  }
